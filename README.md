@@ -4,7 +4,7 @@
 
 <br/>
 
-**Isaac Martiniano** &nbsp;·&nbsp; Recife, PE &nbsp;·&nbsp; Foco em sistemas para gestão municipal
+**Isaac Martiniano** &nbsp;·&nbsp; Recife, PE &nbsp;·&nbsp;
 
 </div>
 
@@ -12,9 +12,8 @@
 
 ## Sobre mim
 
-Desenvolvedor full stack especializado em sistemas institucionais para o setor público municipal. Trabalho com Java Spring Boot no backend, Next.js no frontend e PostgreSQL como banco de dados, com deploy em VPS Ubuntu via systemd + Nginx.
-
-Atualmente desenvolvendo o **Educavix** — plataforma de gestão educacional municipal que cobre Educação Infantil, Ensino Fundamental, EJA e Tempo Integral, com integração à BNCC e conformidade com LDBEN e LGPD.
+Desenvolvedor full stack especializado em sistemas institucionais. Trabalho com Java Spring Boot no backend, Next.js no frontend e PostgreSQL/MySQL como banco de dados, com deploy em VPS Ubuntu via systemd + Nginx.
+QA - Testes Automatizados em uma Instituição Financeira
 
 ---
 
@@ -51,9 +50,9 @@ Atualmente desenvolvendo o **Educavix** — plataforma de gestão educacional mu
 
 | Projeto | Stack | Descrição |
 |---|---|---|
-| **Educavix** | Next.js · Spring Boot · PostgreSQL | Plataforma de gestão educacional municipal — Infantil, Fundamental, EJA, Integral · BNCC integrada |
-| **Saúde na Palma da Mão** | Next.js · Spring Boot · eSUS PEC | PWA de saúde municipal com integração RNDS FHIR R4, prescrição digital e agenda |
-| **Brasil360** | Next.js · Spring Boot · eSUS | Monitoramento de indicadores APS lendo backup do eSUS PEC |
+| **Clique Saúde** | Next.js · Spring Boot · MySQL | Plataforma de gestão para Secretaria municipal de Saúde |
+| **Saúde na Palma da Mão** | Next.js · Spring Boot · eSUS PEC | PWA de saúde municipal com integração diversas |
+| **Brasil360** | Next.js · Spring Boot · eSUS | Monitoramento de indicadores APS lendo eSUS PEC |
 | **SDS-CABO** | Next.js · Spring Boot | PWA para digitalização de serviços de trânsito — SMDS Cabo de Santo Agostinho |
 | **MedStock** | Node.js · Express · PostgreSQL | Controle de estoque farmacêutico com leitor de código de barras USB |
 
