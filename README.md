@@ -4,7 +4,7 @@
 
 <br/>
 
-**Isaac Martiniano** &nbsp;·&nbsp; Recife, PE &nbsp;·&nbsp;
+**Isaac Martiniano** &nbsp;·&nbsp; Recife, PE &nbsp;&nbsp;
 
 </div>
 
